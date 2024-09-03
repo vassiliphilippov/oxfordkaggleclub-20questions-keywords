@@ -1,0 +1,126 @@
+I am preparing possible keywords for 20 questions online game. I have several categories and brainstorm a list of keywords for each category.
+Each keyword can be either one word or several words.
+
+
+Here are some examples:
+
+# Examples
+
+Category: Food and Beverage -> Beverages -> Alcoholic Drinks:
+Keywords:
+Wine Tasting Kit
+beer glass
+Wine Aerator
+aperol spritz
+Wine Decanter
+martini
+wine decanter
+beer stein
+cocktail glass
+gin
+Red wine
+
+Category: Home and Living -> Kitchen and Dining -> Utensils and Cutlery
+Keywords:
+Cutlery
+metal spoon
+skewer
+corkscrew
+Wine Opener
+shaker
+kitchen knife
+toothpick
+strainer
+Mixing Bowl
+peeler
+Cutting Board
+Bread knife
+whisk
+steak knife
+plastic fork
+measuring spoon
+Spatula
+Measuring cup
+wooden spoon
+butter knife
+Rolling pin
+Piping tips
+Sieve
+colander
+
+
+Category: Natural World -> Flora -> Flowers and Plants
+Keywords:
+rose
+nightshade
+prairie sunflower
+iris
+jasmine
+bean plant
+knapweed
+Tulip
+peace lily
+swamp milkweed
+bluebell
+yarrow
+common milkweed
+wisteria
+rose bush
+Holly
+Hibiscus
+carnation
+petunia
+peony
+agave plant
+air plant
+lily
+cactus flower
+Dandelion
+water hyacinth
+Agave
+daisy
+Anemone
+impatiens
+Iris
+tomato plant
+pea plant
+milkweed
+lemon balm
+
+
+Category: Sports and Fitness -> Exercise Equipment -> Strength Training Equipment
+Keywords:
+smith machine
+lifter
+barbell collar
+Dumbbells
+adjustable bench
+punching bag
+weight plate
+Hamstring Curl Machine
+Parallel bars
+Punching Bag
+Free Weights
+yoga block
+Yoga Block
+pilates
+pilates reformer
+Yoga mat
+
+
+# Your task
+
+I want you to output is a list of keywords in category of "{{ category }}".
+
+(each keyword can be either one word or several words)
+
+Please continue this list of words in this category and output {{ number }} more keywords (each either one word or several words).
+
+# Output Format Specification
+
+Your output should be just a list of keywords one keywords per list. Nothing else. No numbers or bullet points.
+
+-------
+
+Now output {{ number }} more keywords for {{ category }} category.
+Important! Your output should be just a list of keywords one keywords per list. Nothing else. No numbers or bullet points.
